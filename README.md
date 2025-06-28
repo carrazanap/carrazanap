@@ -47,7 +47,6 @@ Incluye mi experiencia laboral, proyectos, habilidades y contacto.
 
 ## ✨ Intereses actuales
 
-- Preparación para rol Senior en ingeniería de datos
 - Automatización de procesos y auditoría de calidad
 - Formación en liderazgo técnico
 - Comunicación efectiva y presentaciones públicas
