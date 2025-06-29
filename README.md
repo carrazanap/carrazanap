@@ -32,7 +32,7 @@ Me interesa seguir creciendo profesionalmente, especialmente en:
 ## 🌐 Portfolio Web
 
 👉 Podés ver mi sitio personal y portfolio profesional en:  
-📎 [https://pablocarrazana.github.io](https://carrazanap.github.io/pablocarrazana.github.io/)
+📎 [https://carrazanap.github.io](https://carrazanap.github.io/)
 
 Incluye mi experiencia laboral, proyectos, habilidades y contacto.
 
